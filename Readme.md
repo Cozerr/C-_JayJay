@@ -7,3 +7,11 @@ Compiler:Translator to Machine Language
 1. Codeblock.org --IDE
 2. Building the program basically means  that we are taking all this code and we are converting it down into a language that computer can understand.First we have to build
 a file and then we will run the file
+
+
+*cout-->Console Out
+*endl-->Endline
+
+## VARIABLES
+Variable  is basically just a container where we can store different pieces of information or different data values in our programs.
+
