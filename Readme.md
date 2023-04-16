@@ -18,12 +18,13 @@ Variable  is basically just a container where we can store different pieces of i
 ## DATA TYPES
 
 A Data type basically just means a type of data or a type of information ehat we can use
+<ul>
 *Character Char
 *String
 *Integer
 *float
 *Double :Difference is how many decimal points it can store
 *Boolean
-*Constant usage
+*Constant usage </ul>
 
 
