@@ -15,3 +15,15 @@ a file and then we will run the file
 ## VARIABLES
 Variable  is basically just a container where we can store different pieces of information or different data values in our programs.
 
+## DATA TYPES
+
+A Data type basically just means a type of data or a type of information ehat we can use
+*Character Char
+*String
+*Integer
+*float
+*Double :Difference is how many decimal points it can store
+*Boolean
+*Constant usage
+
+
