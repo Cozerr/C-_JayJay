@@ -29,11 +29,19 @@ A Data type basically just means a type of data or a type of information that we
 
 
 ## STRINGS
+<ul>
+  <li>\n new line</li>
+  <li>string.length() --> boyutunu gösterir</li>
+  <li>string[0]; indis yazdırır</li>
+  <li>string[]=''-->yeni atama</li>
+  <li>passing parameters :Arguments</li>
+  <li>substrings : string.substr();-->Starting index,length</li>
+  </ul>
+  
+## NUMBERS
+***Decimals -->floats or doubles;
+**Whole Numbers
 
-\n new line
-string.length() --> boyutunu gösterir
-string[0]; indis yazdırır
-string[]=''-->yeni atama
-passing parameters :Arguments
-substrings : string.substr();-->Starting index,length
-##
+% modulus kalanı verir mod alır
+
+
