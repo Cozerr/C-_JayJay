@@ -28,3 +28,12 @@ A Data type basically just means a type of data or a type of information that we
   <li>Constant Usage</li> </ul>
 
 
+## STRINGS
+
+\n new line
+string.length() --> boyutunu gösterir
+string[0]; indis yazdırır
+string[]=''-->yeni atama
+passing parameters :Arguments
+substrings : string.substr();-->Starting index,length
+##
