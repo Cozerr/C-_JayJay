@@ -44,4 +44,5 @@ A Data type basically just means a type of data or a type of information that we
 
 % modulus kalanı verir mod alır
 
-
+## CALL FUNCTION
+#include <cmath>
