@@ -44,5 +44,12 @@ A Data type basically just means a type of data or a type of information that we
 
 % modulus kalanı verir mod alır
 
-## CALL FUNCTION
+## CALL CMATH FUNCTION
 #include <cmath>
+  pow(); 2 sayının üstünü alma
+  sqrt(): karekök alma;
+  round() rounded number
+  ceil (); round up;
+  floor() round down;
+  fmax() returns the bigger number; 
+  
