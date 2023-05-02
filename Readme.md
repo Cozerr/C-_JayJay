@@ -53,3 +53,16 @@ A Data type basically just means a type of data or a type of information that we
   floor() round down;
   fmax() returns the bigger number; 
   
+## GETTING USER INpUTS
+  cin>>
+  getline() textin tamamını alır
+  
+  
+  ## ARRAYS
+  datatype variablename [];
+  
+  
+  ## FUNCTIONS
+  first return type + function name +
+  void measn function is not gonna return anything
+  
