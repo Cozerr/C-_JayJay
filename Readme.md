@@ -66,3 +66,7 @@ A Data type basically just means a type of data or a type of information that we
   first return type + function name +
   void measn function is not gonna return anything
   
+  ## RETURN KEYWORD
+  void means function doesn't retrun any information
+  
+  
